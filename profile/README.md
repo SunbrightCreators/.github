@@ -29,13 +29,13 @@
       </td>
       <td valign="top">
         <ul>
-          <li>Language: Python</li>
-          <li>Framework: Django, Django REST Framework</li>
-          <li>Database: PostgreSQL</li>
-          <li>Cache: Redis</li>
-          <li>Authentication: JWT</li>
-          <li>Cloud Infrastructure: AWS</li>
-          <li>CI/CD: Github Actions</li>
+          <li>Language: <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></li>
+          <li>Framework: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />, <img src="https://img.shields.io/badge/Django REST Framework-red?style=for-the-badge&logo=djangoRESTFramework&logoColor=white" /></li>
+          <li>Database: <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></li>
+          <li>Cache: <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" /></li>
+          <li>Authentication: <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jwt&logoColor=white" /></li>
+          <li>Cloud Infrastructure: <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=aws&logoColor=white" /></li>
+          <li>CI/CD: <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></li>
         </ul>
       </td>
       <td valign="top">
@@ -182,3 +182,4 @@
 # Entity Relationship Diagram
 
 <img src="https://github.com/user-attachments/assets/57283b1b-374e-4493-a3da-65b0354ef126" />
+
